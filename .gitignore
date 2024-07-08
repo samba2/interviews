@@ -385,3 +385,9 @@ crash.log
 # are not checked in
 
 localSettings.json
+
+# Jetbrains
+.idea/
+
+# Maven
+**/target/
