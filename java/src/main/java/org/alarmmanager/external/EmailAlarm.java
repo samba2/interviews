@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Raise alarms via Email.
- * Note: This class is provided by an external company and thus is not allowed to be changed 
+ * Note: This class is provided by an external team and thus is not allowed to be changed 
  * (Compatibility and copyright reasons)
  */
 public final class EmailAlarm {

@@ -3,7 +3,7 @@ package org.alarmmanager;
 import org.alarmmanager.external.EmailAlarm;
 
 /**
- * Our company's alarm manager. This class is used by other internal software
+ * Our company's alarm manager. This class is used by other internal teams
  * to raise alarms. Currently, it alarms only via Email.
  * 
  */
